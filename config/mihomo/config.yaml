@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅"
+    url: "订阅地址"
     type: http
     interval: 86400
     health-check:
